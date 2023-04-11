@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Samsung S22 Ultra",
+    "price": "369999",
+    "thumbnail": "https://www.notebookcheck.org/fileadmin/Notebooks/News/_nc3/galaxy_s22_ultra_3.jpg",
+    "id": 1
+  },
+  {
+    "title": "Iphone 14 Pro",
+    "price": "454500",
+    "thumbnail": "https://www.mgmstore.com.ar/1389-large_default/apple-iPhone-14-Pro-128GB.jpg",
+    "id": 2
+  },
+  {
+    "title": "Moto Edge 30 Ultra",
+    "price": "260500",
+    "thumbnail": "https://d28hi93gr697ol.cloudfront.net/9ef84dda-32dd-4016-7da3-1c0a824fffb4/img/Producto/54f94969-0749-35f0-f620-cf0bf32bb601/edge30ultra2-63dc044d8a9fa.jpg",
+    "id": 3
+  }
+]
